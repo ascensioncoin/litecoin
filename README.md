@@ -3,9 +3,9 @@ Ascension Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/ascension-project/ascension.svg?branch=master)](https://travis-ci.org/ascension-project/ascension)
 
-https://ascension.org
+https://ascensioncoin.org
 
-What is Ascension?
+What is Ascension coin?
 ----------------
 
 Ascension is an experimental digital currency that enables instant payments to
@@ -15,7 +15,9 @@ out collectively by the network. Ascension Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Ascension Core software, see [https://ascension.org](https://ascension.org).
+the Ascension Core software, see [https://ascensioncoin.org](https://ascensioncoin.org).
+
+Ascension coin is a fork of Litecoin 0.13 (which is a fork of Bitcoin) at commit f32743e194a3ebe327c47e29e3a1c944ea929d35.
 
 License
 -------
